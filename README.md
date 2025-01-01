@@ -15,8 +15,8 @@ Users should be able to view the optimal layout for the site depending on their 
 
 ### Links
 
-- Solution URL: [solution URL here]()
-- Live Site URL: [live site URL here]()
+- [solution URL here](https://github.com/saruuja/Four-card-feature-section?tab=readme-ov-file)
+- [live site URL here](https://saruuja.github.io/Four-card-feature-section/)
 
 ## My process
 
